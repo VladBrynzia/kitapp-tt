@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kitapp-tt/static/css/main.1cd7b740.css",
+    "main.js": "/kitapp-tt/static/js/main.f7c49bdb.js",
+    "static/js/787.ef6e65bd.chunk.js": "/kitapp-tt/static/js/787.ef6e65bd.chunk.js",
+    "index.html": "/kitapp-tt/index.html",
+    "main.1cd7b740.css.map": "/kitapp-tt/static/css/main.1cd7b740.css.map",
+    "main.f7c49bdb.js.map": "/kitapp-tt/static/js/main.f7c49bdb.js.map",
+    "787.ef6e65bd.chunk.js.map": "/kitapp-tt/static/js/787.ef6e65bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cd7b740.css",
+    "static/js/main.f7c49bdb.js"
+  ]
+}
