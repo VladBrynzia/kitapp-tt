@@ -1,0 +1,31 @@
+.info {
+
+  &__title {
+    font-size: 34px;
+    margin-bottom: 20px;
+  }
+
+  &__text {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+
+  &__input {
+    margin-bottom: 20px;
+    padding: 10px 20px;
+    border: 1px solid black;
+    border-radius: 15px;
+    transition: all 500ms;
+    width: 30%;
+
+    &:hover {
+      background-color: #E8E8E8;
+    }
+  }
+
+  &__item {
+    list-style: none;
+    margin-bottom: 10px;
+    cursor: pointer;
+  }
+}
